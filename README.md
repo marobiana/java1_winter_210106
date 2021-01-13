@@ -56,7 +56,7 @@
 
 ## 문제
 ### [문제 1](06_array/array_quiz/quiz01) : 배열 기본 사용법
-### [문제 2](06_array/array_quiz/quiz02) : 베열 응용하기
+### [문제 2](06_array/array_quiz/quiz02) : 배열 응용하기
 ### [문제 3](06_array/array_quiz/quiz03) : 고급 문제
 
 # 07. 2차원 배열(2dimensional array)
