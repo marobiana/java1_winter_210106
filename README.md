@@ -64,8 +64,8 @@
 ### [강의 자료](07_two_d_array/README.md)
 
 ## 문제
-### [문제 1](07_two_d_array/two_d_array_quiz/quiz01) : 2차원 배열 입력
-### [문제 2](07_two_d_array/two_d_array_quiz/quiz02) : 2차원 배열 다루기
+### [문제 1](07_two_d_array/two_d_array_quiz/quiz01) : 2차원 배열 다루기
+### [문제 2](07_two_d_array/two_d_array_quiz/quiz02) : 2차원 배열 입력
 
 # 08. 문자열(string)
 
